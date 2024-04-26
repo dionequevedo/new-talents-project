@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\NewTalents\\NewTalentsConsole\\NewTalentsConsole.csproj",
+      "projectUniqueName": "c:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\new-talents-project\\NewTalentsConsole\\NewTalentsConsole.csproj",
       "projectName": "NewTalentsConsole",
-      "projectPath": "C:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\NewTalents\\NewTalentsConsole\\NewTalentsConsole.csproj",
+      "projectPath": "c:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\new-talents-project\\NewTalentsConsole\\NewTalentsConsole.csproj",
       "packagesPath": "C:\\Users\\dione.araujo.quevedo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\NewTalents\\NewTalentsConsole\\obj\\",
+      "outputPath": "c:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\new-talents-project\\NewTalentsConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dione.araujo.quevedo\\AppData\\Roaming\\NuGet\\NuGet.Config"

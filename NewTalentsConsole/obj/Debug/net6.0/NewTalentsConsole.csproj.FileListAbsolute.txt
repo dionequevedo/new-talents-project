@@ -1,0 +1,15 @@
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\bin\Debug\net6.0\NewTalentsConsole.exe
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\bin\Debug\net6.0\NewTalentsConsole.deps.json
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\bin\Debug\net6.0\NewTalentsConsole.runtimeconfig.json
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\bin\Debug\net6.0\NewTalentsConsole.dll
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\bin\Debug\net6.0\NewTalentsConsole.pdb
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\NewTalentsConsole.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\NewTalentsConsole.AssemblyInfoInputs.cache
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\NewTalentsConsole.AssemblyInfo.cs
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\NewTalentsConsole.csproj.CoreCompileInputs.cache
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\NewTalentsConsole.sourcelink.json
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\NewTalentsConsole.dll
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\refint\NewTalentsConsole.dll
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\NewTalentsConsole.pdb
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\NewTalentsConsole.genruntimeconfig.cache
+c:\Users\dione.araujo.quevedo\dio-bootcamps\Cooding-The-Future-Avanade\csharp\new-talents-project\NewTalentsConsole\obj\Debug\net6.0\ref\NewTalentsConsole.dll

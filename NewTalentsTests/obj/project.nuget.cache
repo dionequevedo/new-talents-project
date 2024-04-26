@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mczizEjSfBibNN+4VlpQFaD1Lj6H3ni5yOgZ7kNmVQNaB+rSQLpy+BNhxjZzoHyL9W/k3h5c4cfBD2qQM/30zg==",
+  "dgSpecHash": "zyBfggLGkg4xSA33hWxn2g5d+GS8hjJuLTSelzG9pVbgOm6lg7KcCroqXp87AHaD+VneT0IYTwR2uylqoXVFDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\NewTalents\\NewTalentsTests\\NewTalentsTests.csproj",
+  "projectFilePath": "c:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\new-talents-project\\NewTalentsTests\\NewTalentsTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dione.araujo.quevedo\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\dione.araujo.quevedo\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

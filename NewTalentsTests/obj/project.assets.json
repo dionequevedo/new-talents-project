@@ -1802,6 +1802,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "NewTalentsConsole/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NewTalentsConsole.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NewTalentsConsole.dll": {}
+        }
       }
     }
   },
@@ -6098,11 +6108,17 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "NewTalentsConsole/1.0.0": {
+      "type": "project",
+      "path": "../NewTalentsConsole/NewTalentsConsole.csproj",
+      "msbuildProject": "../NewTalentsConsole/NewTalentsConsole.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 17.1.0",
+      "NewTalentsConsole >= 1.0.0",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -6114,11 +6130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\NewTalents\\NewTalentsTests\\NewTalentsTests.csproj",
+      "projectUniqueName": "c:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\new-talents-project\\NewTalentsTests\\NewTalentsTests.csproj",
       "projectName": "NewTalentsTests",
-      "projectPath": "C:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\NewTalents\\NewTalentsTests\\NewTalentsTests.csproj",
+      "projectPath": "c:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\new-talents-project\\NewTalentsTests\\NewTalentsTests.csproj",
       "packagesPath": "C:\\Users\\dione.araujo.quevedo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\NewTalents\\NewTalentsTests\\obj\\",
+      "outputPath": "c:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\new-talents-project\\NewTalentsTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dione.araujo.quevedo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6132,7 +6148,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\new-talents-project\\NewTalentsConsole\\NewTalentsConsole.csproj": {
+              "projectPath": "c:\\Users\\dione.araujo.quevedo\\dio-bootcamps\\Cooding-The-Future-Avanade\\csharp\\new-talents-project\\NewTalentsConsole\\NewTalentsConsole.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

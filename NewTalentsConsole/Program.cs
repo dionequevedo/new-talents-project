@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using NewTalentsConsole.Model;
+Calculadora calc = new Calculadora(DateTime.Now);
+calc.Somar(1, 2);
+calc.Dividir(10, 0);
